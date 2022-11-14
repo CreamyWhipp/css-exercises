@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: rgb(248, 172, 172);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+.anotherclass{
+    font-size: 24px;
+}
+
+#eyedeeone {
+    color: rgb(12, 12, 215);
+    font-size: 36px;
+}
+
+#eyedeetwo {
+    background-color: rgb(129, 240, 129);
+    font-size: 24px;
+    font-weight: 900;
+}
